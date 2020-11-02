@@ -1,6 +1,6 @@
 # Slash-Team
 
-### Group Members:
+### Group Members
 [Ikhtiyar Novruzov](https://github.com/1khtiyar "See Ikhtiyar Novruzov in GitHub")
 
 [Kenan Tanriverdili](https://github.com/Kenan-1202 "See Kenan Tanriverdili in GitHub")
