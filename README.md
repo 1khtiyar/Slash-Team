@@ -7,3 +7,5 @@
 
 [Farhad Mehdizada](https://github.com/ferhad2207 "See Farhad Mehdizada in GitHub")
 
+### Projects
+ - **LinkedList Data Structure** and Implementations of its different types for different purposes. *Refer to* [LinkedLists](https://github.com/ferhad2207/Slash-Team/tree/main/LinkedLists "Go to LinkedLists Directory")
