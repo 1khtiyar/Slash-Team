@@ -5,6 +5,8 @@
 
 [Kenan Tanriverdili](https://github.com/Kenan-1202 "See Kenan Tanriverdili in GitHub")
 
+[Togrul Masimli](https://github.com/Togrul-Masimli "See Togrul Masimli in GitHub")
+
 [Farhad Mehdizada](https://github.com/ferhad2207 "See Farhad Mehdizada in GitHub")
 
 <br/>
